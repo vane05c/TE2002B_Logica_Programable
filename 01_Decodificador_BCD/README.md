@@ -19,17 +19,17 @@ Cable de programación JTAG
 
 /01_Decodificador_BCD
 
-│── bcd.v       # Módulo principal que separa la entrada en unidades, decenas, centenas y miles, mandando estos datos a los displays mediante instancias del módulo "disp".
+│── bcd.v           # Módulo principal que separa la entrada en unidades, decenas, centenas y miles, mandando estos datos a los displays mediante instancias del módulo "disp".
 
-│── disp.v      # Módulo cuya salida es el patrón de encendido de los segmentos de un display de 7 segmentos.
+│── disp.v          # Módulo cuya salida es el patrón de encendido de los segmentos de un display de 7 segmentos.
 
-│── bcd_tb.v    # Testbench para simulación. Las pruebas se realizan con números aleatorios.
+│── bcd_tb.v        # Testbench para simulación. Las pruebas se realizan con números aleatorios.
 
-│── 01_Decodificador_BCD.qpf   # Archivo del proyecto en Quartus.
+│── 01_Decodificador_BCD.qpf       # Archivo del proyecto en Quartus.
 
-│── 01_Decodificador_BCD.qsf   # Archivo de configuración del FPGA.
+│── 01_Decodificador_BCD.qsf       # Archivo de configuración del FPGA.
 
-│── README.md   # Este archivo.
+│── README.md       # Este archivo.
 
 
 ## 📸 Imágenes
@@ -38,9 +38,11 @@ Cable de programación JTAG
 
 Diagrama RTL.
 
+
 ![Simulación de la Práctica 1](imagenes/P01Ondas.png)
 
 Simulación en Questa.
+
 
 ![Funcionamiento de la Práctica 1](imagenes/P01Tarjeta.jpg)
 
