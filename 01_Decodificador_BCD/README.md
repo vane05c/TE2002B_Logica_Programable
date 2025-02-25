@@ -3,7 +3,7 @@
 
 ## 📌 Descripción
 
-Este proyecto implementa un sistema de visualización en un FPGA utilizando Quartus y Verilog para convertir un valor binario de 10 bits en su representación decimal en displays de 7 segmentos. El módulo principal es "bcd" (archivo bcd.v).
+Este proyecto implementa un sistema de visualización en un FPGA utilizando Quartus y Verilog para convertir un valor binario de 10 bits en su representación decimal en displays de 7 segmentos. El módulo principal es "bcd" (archivo "bcd.v").
 
 
 ## ⚙️ Requisitos
@@ -34,14 +34,14 @@ Cable de programación JTAG
 
 ## 📸 Imágenes
 
-![Diagrama RTL de la Práctica 1](01_Decodificador_BCD/imagenes/P01RTL.png)
+![Diagrama RTL de la Práctica 1](imagenes/P01RTL.png)
 
 Diagrama RTL.
 
-![Simulación de la Práctica 1](01_Decodificador_BCD/imagenes/P01Ondas.png)
+![Simulación de la Práctica 1](imagenes/P01Ondas.png)
 
 Simulación en Questa.
 
-![Funcionamiento de la Práctica 1](01_Decodificador_BCD/imagenes/P01Tarjeta.jpg)
+![Funcionamiento de la Práctica 1](imagenes/P01Tarjeta.jpg)
 
 Funcionamiento en la tarjeta especificada en Requisitos.
