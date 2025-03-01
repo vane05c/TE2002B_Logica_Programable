@@ -3,7 +3,7 @@
 
 ## 📌 Descripción
 
-Este proyecto implementa un contador BCD en un FPGA utilizando Quartus y Verilog. El módulo principal gestiona un contador que puede incrementarse o decrementarse, cargar un valor específico y mostrar el resultado en un display de 7 segmentos. Incluye un clock divider, un debouncer, el contador previamente mencionado y el módulo para visualizar la cuenta en el display.
+Este proyecto implementa un contador BCD en un FPGA utilizando Quartus y Verilog. El módulo principal gestiona un contador que puede incrementarse o decrementarse, cargar un valor específico y mostrar el conteo en un display de 7 segmentos. Incluye un clock divider, un debouncer, el contador previamente mencionado y el módulo para visualizar la cuenta en el display.
 
 
 ## ⚙️ Requisitos
