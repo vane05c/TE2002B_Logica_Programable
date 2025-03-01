@@ -6,3 +6,4 @@ A continuación, se enlistan las actividades de práctica en Verilog utilizando 
 ## ✅ Lista
 
 1. Decodificador BCD (25 de febrero de 2025)
+2. Counter BCD con clock - up down (28 de febrero de 2025)
