@@ -3,7 +3,7 @@
 
 ## 📌 Descripción
 
-Este proyecto implementa un frecuencímetro en FPGA utilizando Quartus y Verilog. El módulo principal (frecuencimetro.v) utiliza un contador para medir la duración de los pulsos de la señal de entrada, y así calcular la frecuencia y convertirla a BCD para visualizarla en displays de 7 segmentos.
+Este proyecto implementa un frecuencímetro en FPGA utilizando Quartus y Verilog. El módulo principal (`frecuencimetro.v`) utiliza un contador para medir la duración de los pulsos de la señal de entrada, y así calcular la frecuencia y convertirla a BCD para visualizarla en displays de 7 segmentos.
 
 
 ## ⚙️ Requisitos
