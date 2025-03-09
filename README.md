@@ -9,6 +9,7 @@ A continuación, se enlistan las actividades de práctica en Verilog utilizando 
 1. Decodificador BCD
 2. Counter BCD con clock - up down
 3. PWM
+4. Password
 
 ### Challenges
 1. Frecuencímetro
