@@ -13,3 +13,8 @@ A continuación, se enlistan las actividades de práctica en Verilog utilizando 
 
 ### Challenges
 1. Frecuencímetro
+
+### Examen
+1. Cronómetro
+2. Suma (en clase)
+3. Suma_corregido
