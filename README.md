@@ -18,3 +18,6 @@ A continuación, se enlistan las actividades de práctica en Verilog utilizando 
 1. Cronómetro
 2. Suma (en clase)
 3. Suma_corregido
+
+### Proyecto Final
+Acelerometro
