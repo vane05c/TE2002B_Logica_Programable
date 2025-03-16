@@ -22,7 +22,7 @@ Archivo pin_assignment.tcl para la asignación de pines en el wrapper
 
 ## 📂 Estructura del Proyecto
 
-/Proyecto_final/Acelerometro
+/Proyecto_Final/Acelerometro
 
 │── `accel.v` # Módulo principal, instancia los demás módulos y gestiona la interfaz VGA.
 
